@@ -1,2 +1,2 @@
-# okayu000z-yahoo.co.jp
-ror_practice
+# ror_practice
+ror is Ruby on Rails
